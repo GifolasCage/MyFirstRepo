@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    background-color: darkgrey;
+    width: 650px;
+    margin: auto;
+    margin-top: 20px;
+    font-size: 50px;
+    border-radius: 10px;
+}
+
+.classHead{
+    background-color: fuchsia;
+    font-size: 58px;
+}
